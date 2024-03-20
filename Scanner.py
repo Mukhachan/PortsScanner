@@ -11,7 +11,8 @@ ports = {
     995: "POP3S", 1080: "SOCKS", 1194: "OpenVPN",
     1433: "SQL Server", 1723: "PPTP", 3128: "HTTP",
     3268: "LDAP", 3306: "MySQL", 3389: "RDP", 5000: "Flask APP",
-    5432: "PostgreSQL", 5900: "VNC", 8080: "Tomcat", 10000: "Webmin" 
+    5432: "PostgreSQL", 5900: "VNC", 8080: "Tomcat", 10000: "Webmin",
+    25565:  "Minecraft", 25566:"Minecraft 2"
 }
 
 start = datetime.now()
